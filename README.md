@@ -1,2 +1,2 @@
 # EventManagementSystem
-Author - Rajlaxmi Gadhave
+Author - Rajlaxmi Gadhave & Priyanka Lohar
