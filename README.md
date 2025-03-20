@@ -1,1 +1,2 @@
 # EventManagementSystem
+Author - Rajlaxmi Gadhave
